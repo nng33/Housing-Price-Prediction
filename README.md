@@ -1,2 +1,2 @@
 # Housing-Price-Prediction
-Bayesian data analysis of housing prices 
+I conducted Bayesian data analysis of housing prices in California 
